@@ -1,1 +1,1 @@
- a Tic-Tac-Toe Game using JavaScript, HTML % CSS.
+ a Tic-Tac-Toe Game using JavaScript, HTML & CSS.
