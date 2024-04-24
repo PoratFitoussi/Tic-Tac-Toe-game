@@ -8,32 +8,14 @@
 .row{
     display: flex;
 }
-#c1{
+.rightAndDown{
     border-right-style: solid;
     border-bottom-style:solid;
 }
-#c2{
-    border-right-style: solid;
+.down{
     border-bottom-style:solid;
 }
-#c3{
-    border-bottom-style:solid;
-}
-#c4{
-    border-right-style: solid;
-    border-bottom-style:solid;
-}
-#c5{
-    border-right-style: solid;
-    border-bottom-style:solid;
-}
-#c6{
-    border-bottom-style:solid;
-}
-#c7{
-    border-right-style: solid;
-}
-#c8{
+.right{
     border-right-style: solid;
 }
 #score{
