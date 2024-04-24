@@ -1,0 +1,41 @@
+.cell{
+    border-style: none;
+    cursor: pointer;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+}
+.row{
+    display: flex;
+}
+#c1{
+    border-right-style: solid;
+    border-bottom-style:solid;
+}
+#c2{
+    border-right-style: solid;
+    border-bottom-style:solid;
+}
+#c3{
+    border-bottom-style:solid;
+}
+#c4{
+    border-right-style: solid;
+    border-bottom-style:solid;
+}
+#c5{
+    border-right-style: solid;
+    border-bottom-style:solid;
+}
+#c6{
+    border-bottom-style:solid;
+}
+#c7{
+    border-right-style: solid;
+}
+#c8{
+    border-right-style: solid;
+}
+#score{
+    text-align: center;
+}

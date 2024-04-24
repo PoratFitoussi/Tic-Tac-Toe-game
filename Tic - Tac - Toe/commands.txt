@@ -1,0 +1,5 @@
+ <table class="game">
+            <td id="row1"><button name="row1"></button> <button name="row1"></button> <button name="row1"></button></td> 
+            <tr> <td><button></button>  <button></button> <button></button></td></tr>
+            <tr> <td><button></button>  <button></button> <button></button></td></tr>
+</table>
